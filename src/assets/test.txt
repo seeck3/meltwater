@@ -1,0 +1,72 @@
+OBJECTIVE
+Passionate Software Developer looking Senior front end/ full stack developer.  Proficient in full-stack development, particularly the React, node.js, typescript and postgres
+
+SUMMARY
+I am a determined developer with a particular passion for solving everyday problems in effective ways. Most recently, I joined the AI team as full stack web developer using MEAN stack. I am dedicated to constantly learning and looking for an opportunity where I can make a meaningful contribution to a team.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, TypeScript, JQuery, HTML, HTML5, Python
+Frameworks: Angular4+, Bootstrap, NodeJS, ExpressJS, React, graphQL, Django
+Databases: MongoDB, Mongoose, NoSQL, mlab
+Deployment: AWS deployment, Heroku
+
+WORK EXPERIENCE
+Workrise(Austin, TX, Remote)						        	Oct, 2021 – Present
+Software Developer
+	•	Worked with React.js, nest.js, retool and node.js full stack development
+	•	Migrated old DB(Airtable) to new DB(postgres)
+	•	Built admin page, full stack environment using retool for UI and nest.js for back-end
+	•	Built landing page, full stack environment using retool for UI and nest.js for back-end
+	•	Built time-keeping page with retool that interacts with third-party database platform
+	•	Switched webhook workflow in Zapier, added all business logic in back-end server
+	•	Created endpoints to handle look-up(relational) table in back-end
+	•	Participated on on-call mode, solving most of issues that blocks operations
+	•	Built multiple back-end services
+	•	Built a service that communicates with Typeform web-hook and update records
+	•	Built a service that send a slack-notification when record is created
+	•	Used github for version control
+
+Acuity Inc(Crystal City, VA)						        		Jan, 2020 – Oct, 2021
+Software Developer(Senior Front-end)
+	•	Worked with React.js, graphQL and node.js full stack development
+	•	Refactored existing global header and built Portfolio app in global header with React Material UI components
+	•	Refactored switching existing JavaScript react components to Typescript react components with code-gen
+	•	Created Queries to fetch the data related to portfolios and users
+	•	Created Mutations for data related to users’ portfolios
+	•	Involved in graphQL server, created model, resolver, and schema to interact with client-side
+	•	Generated code-gen for typescript graphQL server-side and client-side
+	•	Built graphql server as node package
+	•	Built React Storybook of multiple react components
+	•	Built FileUploader v3.0 UI and graphql-gateway APIs from scratch
+	•	Built Drag and Drop, so data can be transferred in multiple app
+	•	Written testing for graphql-gateway and react components
+	•	Refactored FileUploader v1.0 to v2.0 in typescript
+	•	Export mock data and mock schemas as in node package from graphql-gateway
+	•	Built Docker containers, improving developer workflow
+	•	Created User Managements UI dashboard
+	•	Used github for version control
+
+United Solutions, LLC(Rockville, MD)				 		        Jan, 2019 – Dec,2019
+Software Developer
+	•	Worked with MEAN full stack development
+	•	Angular 4/5/6/7
+	•	Displayed data to ng-chart, angular materials, clarity materials from back-end
+	•	RESTful API
+	•	Currently providing client support on bug fixes, enhancements and working on enabling stories to enhance user experience
+	•	Integrated data from various back-end service and database; testing website functions and fix bugs
+	•	Created filter options, Sort by options
+	•	Created a page for new form with auto-complete type ahead input and dropdown functions
+	•	Built an Artificial Intelligence web application using Angular 7, checked data accuracy and responsible for daily data update using MongoDB.
+	•	Integrated data to display the charts
+	•	Built the company website, based on 508 compliance and lead the website team – unitedsolutions.biz
+	•	Maintained the company website and preparing V2 as team leader
+	•	Part of design team involved in redesigning the company website
+	•	Agile scrum methodology
+
+
+
+EDUCATION AND TRAINING 
+
+Coding Dojo (2018)
+Completed an immersive full-stack web development program where I became a self-sufficient developer skilled in JavaScript, Python, and MEAN.
+

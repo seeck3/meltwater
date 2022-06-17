@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+}
+
+.item {
+    width: 50%;
+    padding: 15px;
+}
+
+.text {
+    overflow: auto;
+    height: 80vh;
+}
+
+.search-string-input{
+    padding-top: 50px;
+}
+
+input {
+    width: 50%;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+form{
+    margin-bottom: 15px;
+}
